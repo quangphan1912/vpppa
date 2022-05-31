@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      discovery:
+        enabled: false
+      fail-jarst: false
+      enabled: false
+eureka.client.enabled: false
+eureka.client.healthcheck.enabled: false

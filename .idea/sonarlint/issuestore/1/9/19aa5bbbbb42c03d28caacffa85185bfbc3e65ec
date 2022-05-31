@@ -1,0 +1,13 @@
+
+I
+java:S10680"'Remove this unused "key" private field.(şÅ¨ùÿÿÿÿ8º¾»ÿÀ.
+F
+java:S10683")Remove this unused "value" private field.(Î¬Ø8º¾»ÿÀ.
+N
+java:S10686",Remove this unused "operator" private field.(®®«Ÿûÿÿÿÿ8º¾»ÿÀ.
+J
+java:S10689"(Remove this unused "type" private field.(–î†ûÿÿÿÿ8º¾»ÿÀ.
+O
+java:S1068<"-Remove this unused "joinTable" private field.(‡›ëüÿÿÿÿ8º¾»ÿÀ.
+N
+java:S1068?",Remove this unused "joinType" private field.(ÄÖˆçÿÿÿÿÿ8º¾»ÿÀ.

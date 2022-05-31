@@ -1,0 +1,17 @@
+
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8âƒö²Á.
+E
+java:S1068A"(Remove this unused "code" private field.(²âèú8ŸÍ‰†Â.
+E
+java:S1068D"(Remove this unused "name" private field.(Ë¥¼8ŸÍ‰†Â.
+Q
+java:S1068G"/Remove this unused "description" private field.(ÇÓæâıÿÿÿÿ8ŸÍ‰†Â.
+J
+java:S1068J".Remove this unused "expression" private field.(‰ø8ŸÍ‰†Â.
+P
+java:S1068M".Remove this unused "schemeType" private field.(êºüıÿÿÿÿ8ŸÍ‰†Â.
+N
+java:S1068P",Remove this unused "division" private field.(¯Şùùÿÿÿÿ8ŸÍ‰†Â.
+G
+java:S1068S"*Remove this unused "center" private field.(Ö¨™8ŸÍ‰†Â.

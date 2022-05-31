@@ -1,0 +1,13 @@
+
+M
+java:S1066Ö"/Merge this if statement with the enclosing one.(Š»¤”8†²Ğ„Â.
+M
+java:S1066ã"/Merge this if statement with the enclosing one.(õÏ¸8†²Ğ„Â.
+u
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(õª”…ÿÿÿÿÿ8†²Ğ„Â.
+
+java:S1192ì"oDefine a constant instead of duplicating this literal "The action is invalid, ID=[{}] does not exist!" 3 times.(ıÓÏ8†²Ğ„Â.
+]
+java:S1128"ARemove this unused import 'org.springframework.util.StringUtils'.(Ğôÿ8†²Ğ„Â.
+u
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(šËÓÔÿÿÿÿÿ8†²Ğ„Â.

@@ -1,0 +1,13 @@
+
+Q
+java:S1128"5Remove this unused import 'javax.persistence.Column'.(ìûæH8¸™»¾.
+O
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ
+n
+java:S1128"LRemove this unused import 'org.springframework.data.annotation.CreatedDate'.(Éå¥°ÿÿÿÿÿ8¸™»¾.
+Y
+java:S1128"7Remove this unused import 'javax.persistence.Temporal'.(…ò­“üÿÿÿÿ8¸™»¾.
+]
+java:S1128";Remove this unused import 'javax.persistence.TemporalType'.(×ÓÛøÿÿÿÿ8¸™»¾.
+n
+java:S1128"QRemove this unused import 'org.springframework.data.annotation.LastModifiedDate'.(Æğ¼‰8¸™»¾.

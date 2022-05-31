@@ -1,0 +1,31 @@
+
+Z
+java:S1854"?Remove this useless assignment to local variable "positionDto".(·Δύ8„Απώΐ.
+y
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(πνµ“ϊÿÿÿÿ8„Απώΐ.
+r
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ςΚ¦ώÿÿÿÿ8„Απώΐ.
+Y
+java:S1854">Remove this useless assignment to local variable "productDto".(¥Ί 8„Απώΐ.
+y
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ή“ƒϊÿÿÿÿ8„Απώΐ.
+l
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ξΣύV8„Απώΐ.
+K	java:S108Ο")Either remove or fill this block of code.(βΓƒύÿÿÿÿ8„Απώΐ.
+y
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ηύω€όÿÿÿÿ8„Απώΐ.
+a
+java:S1854"ARemove this useless assignment to local variable "subProductDto".(Φª‹ϊÿÿÿÿ8„Απώΐ.
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ςΌή8„Απώΐ.
+u
+java:S3776Γ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(–Ληώÿÿÿÿ8„Απώΐ.
+l
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(οΰ€,8„Απώΐ.
+K	java:S108λ")Either remove or fill this block of code.(βΓƒύÿÿÿÿ8τ±ƒΒ.
+\
+java:S1854"<Remove this useless assignment to local variable "paramDto".(Η–ςΛώÿÿÿÿ8„Απώΐ.
+V
+java:S1144Θ"3Remove this unused private "formatDateTime" method.(ΗΔψ›ϋÿÿÿÿ8³¶—¥Β.
+T
+java:S1144δ"6Remove this unused private "formatExpiredDate" method.(ΩÒΠ8³¶—¥Β.

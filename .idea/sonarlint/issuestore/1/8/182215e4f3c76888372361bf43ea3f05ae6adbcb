@@ -1,0 +1,15 @@
+
+N
+java:S1135‚"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+[
+java:S1858@"F"getProductId" returns a string, there's no need to call "toString()".(Ôë<
+m
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÅÓ€‡ÿÿÿÿÿ
+M
+java:S1135-"2Complete the task associated to this TODO comment.(ƒÜ¢Âüÿÿÿÿ
+d
+java:S1858D"I"getSubProductId" returns a string, there's no need to call "toString()".(ù™Ö²ùÿÿÿÿ
+M
+java:S1135|"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+]
+java:S1858c"G"getPositionId" returns a string, there's no need to call "toString()".(İÏÙ‘

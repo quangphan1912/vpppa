@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="core" />
+        <module name="common" />
+        <module name="repository" />
+        <module name="entity" />
+        <module name="dto" />
+        <module name="management" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="11" />
+      <module name="constant" target="11" />
+      <module name="core" target="11" />
+      <module name="dto" target="11" />
+      <module name="entity" target="11" />
+      <module name="management" target="11" />
+      <module name="pom-parent" target="11" />
+      <module name="repository" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common" options="-parameters -Xlint" />
+      <module name="core" options="-parameters -Xlint" />
+      <module name="dto" options="-parameters -Xlint" />
+      <module name="entity" options="-parameters -Xlint" />
+      <module name="management" options="-parameters -Xlint" />
+      <module name="repository" options="-parameters -Xlint" />
+    </option>
+  </component>
+</project>

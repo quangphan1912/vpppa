@@ -1,0 +1,74 @@
+# java -jar -Dspring.profiles.active=abc target/spring-boot-profile-1.0.jar
+# test
+spring:
+   profiles:
+      active: test
+   datasource:
+      url: jdbc:postgresql://172.18.1.110:5432/vppa_test
+      username: vppa_test
+      password: 'gcsvn123'
+   camunda:
+      url: "http://172.18.1.118:8080"
+   jpa:
+      show-sql: false
+      generate-ddl: false
+      hibernate:
+         dialect: org.hibernate.dialect.PostgreSQLDialect
+         ddl-auto: none
+      properties.hibernate.temp.use_jdbc_metadata_defaults: false
+   database:
+      enable-db-schema: false
+      enable-db-update: false
+      enable-db-view: false
+      enable-db-seeddata: false
+      enable-db-seed-update: false
+   email:
+      bicc: 'hast@hitachiconsulting.com'
+      bau: 'hast@hitachiconsulting.com'
+# LOGGING
+logging:
+   pattern:
+      console: '%d %-5level %logger : %msg%n'
+      file: '%d %-5level [%thread] %logger : %msg%n'
+   level:
+      org.springframework.web: ERROR
+      org.hibernate: ERROR
+      com.gcs.vppa*: DEBUG
+   file:
+      max-size: 30MB
+server:
+   port: 8080
+
+# Cryptography information.
+crypto:
+   original: 'vppa-%$#&*(!)1092737-aqoeurtnbakfa1'
+   parameter: 'vppa-parameter-$%^&*)(13465)(ja83)*'
+   scheme: 'vppa-scheme-$%^&*)(%$&*@#))(hgb346)'
+   salt: 'vppa-salt-$%(*U(#Y))3@89245*'
+   division: 'vppa-division-$%^&*)(13465)(ja83)*'
+   divisionProposal: 'vppa-division-$%^&*)(13465)(ja83)*'
+   product: 'vppa-product-$%^&*)(13465)(ja83)*'
+   center: 'vppa-center-$%^&*)(13465)(ja83)*'
+   schemetype: 'vppa-schemetype-$%^&*)(13465)(ja83)*'
+   process: 'vppa-process-$%^&*)(13465)(ja83)*'
+   processtype: 'vppa-processtype-$%^&*)(13465)(ja83)*'
+   processTypeKey: 'vppa-processTypeKey-$%^&*)(13465)(ja83)*'
+   channel: 'vppa-channel-$%^&*)(13465)(ja83)*'
+   department: 'vppa-department-$%^&*)(13465)(ja83)*'
+   campaign: 'vppa-campaign-$%^&*)(13465)(ja83)*'
+   position: 'vppa-position-$%^&*)(13465)(ja83)*'
+   schemestatus: 'vppa-schemestatus-$%^&*)(13465)(ja83)*'
+   user-role: 'vppa-userrole-$%^&*)(13465)(ja81)*'
+   user-group: 'vppa-usergroup-$%^&*)(13465)(grabc)*'
+   ldap: 'vppa-ldap-$%^&*)(13465)(65jk)*'
+   vppa-user: 'vppa-user-$%^&*)(13465)(kji90)*'
+   permission: 'vppa-permission-$%^&*)(13465)(56hk)*'
+
+jwt:
+   ignore-filter: false
+   exp: 4320
+
+# Global config
+# start app.
+
+

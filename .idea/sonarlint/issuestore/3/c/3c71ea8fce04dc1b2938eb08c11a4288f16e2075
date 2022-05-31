@@ -1,0 +1,8 @@
+
+{
+java:S1488\"eImmediately return this expression instead of assigning it to the temporary variable "specification".(òØÚ
+@
+java:S5411"*Use the primitive boolean expression here.(¿Óãİ
+>
+java:S1604\"(Make this anonymous inner class a lambda(òØÚ
+c	java:S119-"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ÇÓ”ªùÿÿÿÿ
